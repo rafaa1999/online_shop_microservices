@@ -1,14 +1,11 @@
-package com.rafaa.productservice;
+package com.rafaa.orderservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-
 @SpringBootTest
+class OrderServiceApplicationTests {
 
-class ProductServiceApplicationTests {
-
-	
 	@Test
 	void contextLoads() {
 	}
